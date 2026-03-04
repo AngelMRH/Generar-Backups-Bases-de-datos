@@ -173,6 +173,5 @@ Control total desde Windows
 
 Automatización completa
 
-👨‍💻 Autor
 
 Angel Manuel Ruiz
